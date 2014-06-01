@@ -5,3 +5,4 @@ class MPS{
 	System.out.println("This was added later");
   }
 }
+//Java is slower than C#
